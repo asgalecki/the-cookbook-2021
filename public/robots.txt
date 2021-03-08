@@ -1,0 +1,18 @@
+User-agent: Googlebot
+
+Disallow: /search
+
+Disallow: /add
+Disallow: /myrecipes
+Disallow: /settings
+
+Disallow: /signin
+Disallow: /signup
+Disallow: /resetpassword
+
+Disallow: /about
+Disallow: /contact
+Disallow: /terms
+Disallow: /privacy
+
+Sitemap: https://site.ru/site_structure/my_sitemaps1.xml
